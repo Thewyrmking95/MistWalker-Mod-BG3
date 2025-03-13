@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="02c9654e-a1ec-e0f8-88c5-28a3bc493b13"/>
+            <attribute id="Name" type="LSString" value="TWK_Mistwalker"/>
+            <attribute id="UUID" type="LSString" value="296725f2-ef57-765c-b949-dcfa3ff366fc"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
