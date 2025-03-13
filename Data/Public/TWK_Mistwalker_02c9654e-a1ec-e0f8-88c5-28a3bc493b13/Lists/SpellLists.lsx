@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="TWK_ShroudAbilities"/>
+                    <attribute id="UUID" type="guid" value="30c14b81-1b01-495e-a35a-4880fa15ac73"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

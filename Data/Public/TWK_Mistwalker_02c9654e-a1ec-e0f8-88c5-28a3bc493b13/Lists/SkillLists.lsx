@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="SkillLists">
+        <node id="root">
+            <children>
+                <node id="SkillList">
+                    <attribute id="Name" type="FixedString" value="Mist Walker Skill List"/>
+                    <attribute id="Skills" type="LSString" value="Acrobatics, Deception, History, Intimidation, Investigation, Perception, Persuasion, SleightOfHand, Stealth"/>
+                    <attribute id="UUID" type="guid" value="e7b40223-10d3-4456-b203-1ba7decd8ac2"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

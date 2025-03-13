@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hf62c6f09gc944g7291gc084gad08a755571c" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd48255c8g777bg265eg76c0ga783b6355958" version="1"/>
+                    <attribute id="PassivePrototype" type="FixedString" value="UnarmouredDefence_MistWalker"/>
+                    <attribute id="ProgressionTableId" type="guid" value="9a44e828-92db-4d6c-acbc-a4f8ef340415"/>
+                    <attribute id="Type" type="FixedString" value="ACOverrideFormula"/>
+                    <attribute id="UUID" type="guid" value="38d1ebaf-23b0-41c3-a5cd-89c023fa09c3"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h97acbf7fg711bgf910gcad0g52a3c23fd3a2" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hddad6de2g30bag4f7dg9347gac241e33e36c" version="1"/>
+                    <attribute id="ParamMatch" type="FixedString" value="0:TWK_MistWalk_AR"/>
+                    <attribute id="ProgressionTableId" type="guid" value="9a44e828-92db-4d6c-acbc-a4f8ef340415"/>
+                    <attribute id="Type" type="FixedString" value="ActionResource"/>
+                    <attribute id="UUID" type="guid" value="06d29f36-9fb9-4dbc-9a0b-bd1f8fe3eb49"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hc083f3f0gc61bg8a9eg2712g979dc7484929" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hee3bdfebg169ag3ad6g0f4dg536dab0e1f95" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="9a44e828-92db-4d6c-acbc-a4f8ef340415"/>
+                    <attribute id="Type" type="FixedString" value="Mistwalker"/>
+                    <attribute id="UUID" type="guid" value="76bbfb76-4e06-4e80-ba67-2146bdb09ea5"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="ExactMatch" type="FixedString" value="MistWalkUnlock"/>
+                    <attribute id="Hidden" type="bool" value="true"/>
+                    <attribute id="PassivePrototype" type="FixedString" value="MistWalkUnlock"/>
+                    <attribute id="UUID" type="guid" value="ef4f5c5d-f326-4e5f-8f06-37a3fb946abf"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

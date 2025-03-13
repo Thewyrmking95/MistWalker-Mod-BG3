@@ -1,0 +1,17 @@
+new entry "MistWalkUnlock"
+type "PassiveData"
+data "DisplayName" "h686e051bgfa3bg3df6ge97cgb33bb2c3ac0d;1"
+data "Description" "hfb066288gc4f8g2c35g5708gb448be60551d;3"
+data "Icon" "Spell_Conjuration_MistyStep"
+data "Boosts" "UnlockSpell(Target_MistWalk)"
+
+new entry "UnarmouredDefence_MistWalker"
+type "PassiveData"
+data "DisplayName" "h77103347g17adg8dfbgaea3gaeab4db3847a;1"
+data "Description" "h7ec2ae72gbb51g38a1g4bb5gb091e591c315;1"
+data "Icon" "PassiveFeature_UnarmoredDefense_Barbarian"
+data "Properties" "Highlighted"
+data "BoostContext" "OnEquip;OnCreate"
+data "BoostConditions" "not WearingArmor(context.Source)"
+data "Boosts" "ACOverrideFormula(10,true,Dexterity,Intelligence)"
+

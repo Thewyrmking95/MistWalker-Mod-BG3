@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Mist Walker fighting style"/>
+                    <attribute id="Passives" type="LSString" value="FightingStyle_Dueling,FightingStyle_TwoWeaponFighting"/>
+                    <attribute id="UUID" type="guid" value="07d33df0-c572-407f-b40b-167239e0f596"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

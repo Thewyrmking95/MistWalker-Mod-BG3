@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="ha0387b3eg7305gb0b0gfab8g041ad6acbf95" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h20d32707g94c1g3efdgc486gc14568109fec" version="1"/>
+                    <attribute id="IsSpellResource" type="bool" value="true"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="TWK_MistWalk_AR"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Turn"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="f68a4a26-2439-4b33-b88c-9e11875aa2a6"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="ha03b99a0gdc89gdd59g9ca5gdd1c335f4bf7" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h58fd0290g0121g9983gb0f2g9ca60332e867" version="1"/>
+                    <attribute id="IsSpellResource" type="bool" value="true"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="TWK_Shroud_AR"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="527ea404-d8bd-4613-b0ec-faed4c655468"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
