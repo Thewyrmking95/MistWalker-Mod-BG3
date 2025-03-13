@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h3ae5a2bagffaaged83gaf2ag3fa2cbd7cb25" version="1">Mist Walk</content>
+  <content contentuid="hb59eb9bag58c9g1b8cg2e7ag7ac9c07c3cf8" version="2">Surrounded by the Mist, you teleport to an unoccupied space you can see.</content>
+  <content contentuid="h686e051bgfa3bg3df6ge97cgb33bb2c3ac0d" version="1">Mist Walk</content>
+  <content contentuid="hfb066288gc4f8g2c35g5708gb448be60551d" version="3">You gain the ability to Mist Walk, allowing you to teleport short distances. By spending a Charge, you may teleport to another empty space you can see within your Mist Walk distance. Using Mist Walk does not provoke attacks of opportunity.</content>
+  <content contentuid="h77103347g17adg8dfbgaea3gaeab4db3847a" version="1">Unarmoured Defence</content>
+  <content contentuid="h7ec2ae72gbb51g38a1g4bb5gb091e591c315" version="1">The Mist protects you by warning you of attacks. While not wearing armour, you add your Intelligence &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; to your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
+  <content contentuid="h20d32707g94c1g3efdgc486gc14568109fec" version="1">Mist Walk Charges</content>
+  <content contentuid="ha0387b3eg7305gb0b0gfab8g041ad6acbf95" version="1">Mist Walk Determines how many times you may cast Mist Walk per turn</content>
+  <content contentuid="hd48255c8g777bg265eg76c0ga783b6355958" version="1">Unarmoured Defence</content>
+  <content contentuid="hf62c6f09gc944g7291gc084gad08a755571c" version="1">While not wearing armour, you add your Intelligence &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; to your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
+  <content contentuid="hddad6de2g30bag4f7dg9347gac241e33e36c" version="1">Additional Mist Walk Charge</content>
+  <content contentuid="h97acbf7fg711bgf910gcad0g52a3c23fd3a2" version="1">You can now Mist Walk more times per Turn.</content>
+  <content contentuid="hee3bdfebg169ag3ad6g0f4dg536dab0e1f95" version="1">Mist Walker</content>
+  <content contentuid="hc083f3f0gc61bg8a9eg2712g979dc7484929" version="1">To be counted among those who can walk the mists is no easy feat and as such, Mist Walkers are incredibly dedicated warriors. Focusing their mind to absorb the entirety of their surroundings they track their enemies and engage them at blinding speeds— often from behind.</content>
+  <content contentuid="h58fd0290g0121g9983gb0f2g9ca60332e867" version="1">Shroud Points</content>
+  <content contentuid="ha03b99a0gdc89gdd59g9ca5gdd1c335f4bf7" version="1">You have tapped further into the secrets of Mist, giving you access to manifest and manipulate it as a tangible force, called the Shroud.</content>
+  <content contentuid="h3fb327b5g1e45g30b9g5984gced756038d17" version="1">Mist Walker</content>
+  <content contentuid="he43abee0ga12eg5653g23d0g994ba4c27ae9" version="1">To be counted among those who can walk the mists is no easy feat and as such, Mist Walkers are incredibly dedicated warriors. Focusing their mind to absorb the entirety of their surroundings they track their enemies and engage them at blinding speeds— often from behind.</content>
+  <content contentuid="h222ce560gda38g6dcdgaaebg1b97abe11d48" version="1">Darkness</content>
+  <content contentuid="h78e3c356gdd2eg2ec3g2128g7e4084c70de7" version="1">Create a dark shroud that Heavily Obscures and &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinds&lt;/LSTag&gt; creatures within. Creatures cannot make ranged attacks into or out of it.</content>
+</contentList>
